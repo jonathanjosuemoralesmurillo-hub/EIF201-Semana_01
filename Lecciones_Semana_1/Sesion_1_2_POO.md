@@ -1,11 +1,6 @@
 # Tema I. Conceptos básicos de Programación Orientada a Objetos
 
-> **Lenguaje:** C++  
-> **Población:** estudiantes de 17 a 25 años  
-> **Organización sugerida:** tres lecciones  
-> **Enfoque:** explicación visual, análisis de código y práctica guiada
 
----
 
 ## Propósito del tema
 
