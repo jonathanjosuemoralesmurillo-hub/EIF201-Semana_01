@@ -141,9 +141,22 @@ private:
 
 public:
     Robot()
-        : nombre("Sin nombre"), energia(100), velocidad(0) {
+        : nombre("Sin nombre"), energia(100), velocidad(0) { //constructor sin parámetros con lista de inicialización
+
+    }
+//1. Sin lista de inicialización
+    Robot() {//constructor sin parámetros sin ista de inicialización:
+        nombre = "Sin nombre";
+        energia = 100;
+        velocidad = 0;
     }
 
+    Robot(const std::string& nombreInicial, int energiaInicial) {
+        nombre = nombreInicial;
+        energia = energiaInicial;
+        velocidad = 0;
+    }
+//2. Con lista de inicialización
     Robot(const std::string& nombreInicial, int energiaInicial)
         : nombre(nombreInicial), energia(energiaInicial), velocidad(0) {
     }
