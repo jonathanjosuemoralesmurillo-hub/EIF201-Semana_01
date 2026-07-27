@@ -40,8 +40,6 @@
 
 - Resolver la [**Tarea Moral 1**](Tarea_Moral.md) (ensayo general autoevaluado; nivel examen/proyecto).
 - Verificar la solución con **todos** los casos de prueba del enunciado antes de considerarla dominada.
-- Trabajo individual. Incluir sección de autoevaluación con rúbrica: diseño (30%), implementación (40%), documentación (20%), pruebas (10%).
-
 ---
 
-**Formato de entrega:** Todo en archivo(s) **MD (Markdown)** en el Aula Virtual, salvo indicación contraria del profesor.
+**Formato de entrega:** Todo en archivo(s) **MD (Markdown)** en el Aula Virtual EN UN ARCHIVO ZIP( NO RAR ), salvo indicación contraria del profesor.
