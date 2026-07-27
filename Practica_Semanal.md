@@ -42,4 +42,4 @@
 - Verificar la solución con **todos** los casos de prueba del enunciado antes de considerarla dominada.
 ---
 
-**Formato de entrega:** Todo en archivo(s) **MD (Markdown)** en el Aula Virtual EN UN ARCHIVO ZIP( NO RAR ), salvo indicación contraria del profesor.
+**Formato de entrega:** Todo en archivo(s) **MD (Markdown)** en el Aula Virtual EN UN ARCHIVO ZIP( NO RAR ) y el proyecto en CLion , salvo indicación contraria del profesor.
