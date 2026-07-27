@@ -4,7 +4,7 @@
 **Programa de curso** · **Programación I** · **C++**
 **Carrera:** Ingeniería de Sistemas de Información con grado en Bachillerato y salida lateral de Diplomado en Programación de Aplicaciones Informáticas.
 
-**Lenguaje del curso:** EIF-201 desarrolla **todas** las soluciones en **C++** (compilación con `g++ -std=c++11 -Wall`). Use archivos `.h` / `.cpp` cuando el diseño lo requiera, `using namespace std;` en ejemplos de clase, y buenas prácticas del estándar C++.
+**Lenguaje del curso:**  EIY 405 desarrolla **todas** las soluciones en **C++** (compilación con `g++ -std=c++11 -Wall`). Use archivos `.h` / `.cpp` cuando el diseño lo requiera, `using namespace std;` en ejemplos de clase, y buenas prácticas del estándar C++.
 
 ---
 
@@ -14,7 +14,7 @@
 **Material del profesor:** [Sesion_01_s1.md](Sesion_01_s1.md)
 
 **Duración:** 1 hora y 30 minutos
-**Fecha aproximada:** 20/07/26 – 26/07/26 (Lunes o Martes)
+**Fecha aproximada:** 20/07/26 – 26/07/26 (Lunes o Jueves )
 **Tema:** Paradigmas de programación: programación estructurada vs orientada a objetos
 
 ---
