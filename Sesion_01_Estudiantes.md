@@ -1,5 +1,3 @@
-| <div align="right"><img src="../Logo-UNA-Rojo_FondoTransparente%20(2).png" width="120" alt="Logo UNA" /></div> | | <p align="right"><img src="../images.jpeg" width="120" alt="Logo EscINF" /></p> |
-|:----------------------------------------------------|:-------------------------------------------------------------:|------------------------------------------------------------:|
 
 **Programa de curso** · **Programación I** · **C++**
 **Carrera:** Ingeniería de Sistemas de Información con grado en Bachillerato y salida lateral de Diplomado en Programación de Aplicaciones Informáticas.
